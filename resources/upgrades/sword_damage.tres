@@ -1,0 +1,10 @@
+[gd_resource type="Resource" script_class="AbilityUpgrade" load_steps=2 format=3 uid="uid://oiyauhwq0ny4"]
+
+[ext_resource type="Script" path="res://resources/upgrades/ability_upgrade.gd" id="1_elwhc"]
+
+[resource]
+script = ExtResource("1_elwhc")
+id = "sword_damage"
+max_quantity = 0
+name = "Bonus AD"
+description = "make sword hit more 15% hard wowzers"

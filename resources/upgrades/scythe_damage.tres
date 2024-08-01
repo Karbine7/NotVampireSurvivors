@@ -1,0 +1,10 @@
+[gd_resource type="Resource" script_class="AbilityUpgrade" load_steps=2 format=3 uid="uid://cuge2w5ajqdnt"]
+
+[ext_resource type="Script" path="res://resources/upgrades/ability_upgrade.gd" id="1_ojn6b"]
+
+[resource]
+script = ExtResource("1_ojn6b")
+id = "scythe_damage"
+max_quantity = 0
+name = "Bonus AP"
+description = "make scythe hit more 10% hard wowzers"
